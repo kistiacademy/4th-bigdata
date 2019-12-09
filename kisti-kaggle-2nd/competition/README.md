@@ -1,0 +1,4 @@
+- 캐글 대회
+  - 기간: 2019.12.08 ~ 12.18 10:00AM
+  - URL:
+    - https://www.kaggle.com/t/d19b76a7f30740c1a7bc6b5ddb12479c
