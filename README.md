@@ -1,4 +1,4 @@
-# 2020년도 상반기 서울 화상면접 안내
+# 2020년도 상반기 **KISTI 과학기술 빅데이터 분석가 양성 과정** 서울 화상면접 안내
 - 화상면접은 구글 행아웃(https://hangouts.google.com)을 통해 진행됩니다.
   - 구글 계정이 필요합니다.
   - 웹캠, 마이크가 포함된 PC나 노트북 사용
@@ -11,7 +11,7 @@
 - 테스트 URL
   - https://hangouts.google.com/call/yjPMDI696FJqnrydRugnAEEM
   
-#### <font color="red">화상면접 당일 URL은 달라질 수 있으니 반드시 확인하세요!</font>
+#### 화상면접 당일 URL은 달라질 수 있으니 반드시 확인하세요!
 
   
   
