@@ -12,7 +12,8 @@
 - 테스트 URL
   - https://hangouts.google.com/call/yjPMDI696FJqnrydRugnAEEM
   
-#### 화상면접 당일 URL은 달라질 수 있으니 반드시 확인하세요!
+#### <I>화상면접 당일 URL은 달라질 수 있으니 반드시 확인하세요!</I>
+
 
   
   
